@@ -146,4 +146,4 @@ Abitha S
 
 B.Tech – Artificial Intelligence and Data Science
 
-Machine Learning and Data Science Enthusiast
+Aspiring Machine Learning Engineer focused on building real-world AI applications
