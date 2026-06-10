@@ -110,7 +110,8 @@ pip install -r requirements.txt
 ```bash
 python -m streamlit run app.py
 ```
-
+## Live Demo
+https://placement-prediction-system-abithashanmugam08.streamlit.app/
 ---
 
 ## Project Structure
