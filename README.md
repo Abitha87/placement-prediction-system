@@ -146,4 +146,6 @@ Abitha S
 
 B.Tech – Artificial Intelligence and Data Science
 
+Hindusthan Institute of Technology
+
 Aspiring Machine Learning Engineer focused on building real-world AI applications
